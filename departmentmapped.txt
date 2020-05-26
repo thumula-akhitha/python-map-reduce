@@ -48,3 +48,812 @@ Computers	182.05
 Cameras	345.18
 Books	135.96
 Books	344.09
+Crafts	33.13
+Garden	18.27
+Computers	140.94
+Toys	157.48
+Video Games	350.55
+Crafts	196.83
+Toys	425.79
+CDs	472.71
+Women's Clothing	359.29
+Health and Beauty	131.97
+Garden	134.33
+Garden	302.69
+Toys	254.62
+Baby	130.54
+Consumer Electronics	153.84
+Toys	2
+Women's Clothing	100.38
+Men's Clothing	460.38
+Video Games	107.94
+Books	157.08
+Men's Clothing	243.05
+Music	46.99
+Toys	9.47
+Garden	16.15
+Cameras	271.56
+Children's Clothing	387.75
+Health and Beauty	367.76
+Men's Clothing	297.43
+Books	392.81
+Garden	11.96
+Crafts	20.07
+DVDs	299.55
+DVDs	440.11
+Crafts	127.8
+DVDs	390.2
+Pet Supplies	440.7
+Video Games	294.98
+Men's Clothing	418.91
+Computers	359.65
+Sporting Goods	371.21
+Health and Beauty	368.42
+Consumer Electronics	480.24
+CDs	125.35
+DVDs	242.31
+Computers	278.61
+CDs	152.9
+Sporting Goods	452.07
+Baby	59.08
+Garden	155.33
+Pet Supplies	332.48
+Children's Clothing	419.06
+Women's Clothing	423.12
+Consumer Electronics	25.74
+Baby	66.07
+Books	482.94
+Music	11.29
+Crafts	215.22
+Women's Clothing	482.97
+Books	322.37
+Sporting Goods	103.01
+Video Games	366.56
+Toys	257.67
+Health and Beauty	483.1
+Crafts	437.19
+Children's Clothing	31.79
+Men's Clothing	427.43
+Video Games	400.08
+Crafts	461.48
+Books	133.57
+Crafts	489.8
+Pet Supplies	84.4
+Health and Beauty	392.5
+Books	23.83
+Music	461.11
+Women's Clothing	293.16
+Crafts	360.34
+Men's Clothing	314.1
+Garden	366.13
+Men's Clothing	481.32
+Cameras	306.01
+Crafts	134.89
+Video Games	75.73
+Toys	339.77
+Health and Beauty	333.15
+Consumer Electronics	345.1
+CDs	467.62
+DVDs	164.38
+Books	273.49
+CDs	98.23
+Music	461.2
+Consumer Electronics	446.19
+Children's Clothing	39.82
+DVDs	255.59
+Health and Beauty	47.38
+Video Games	58.66
+Music	364.24
+Baby	274.99
+Baby	350.97
+Children's Clothing	114.9
+Women's Clothing	173.72
+Music	331.68
+Children's Clothing	314.05
+Computers	160.9
+Pet Supplies	304.16
+Toys	74.71
+Men's Clothing	203.43
+CDs	299.3
+CDs	453.07
+Computers	62.14
+Pet Supplies	138.93
+Children's Clothing	217.79
+Health and Beauty	343.04
+Books	220.63
+Computers	422.56
+Pet Supplies	382.41
+Garden	332.58
+Books	467.48
+Video Games	208.69
+Crafts	7.98
+Consumer Electronics	239.49
+DVDs	390.35
+Children's Clothing	357.1
+Toys	409.26
+Children's Clothing	92.93
+Children's Clothing	191.28
+Music	94.3
+Crafts	140.47
+Computers	208.16
+Crafts	337.8
+Toys	37.77
+Sporting Goods	60.92
+Women's Clothing	206.82
+Video Games	422
+Pet Supplies	484.24
+Toys	449.7
+Sporting Goods	98.92
+Men's Clothing	336.28
+Sporting Goods	48.34
+Baby	160.07
+Women's Clothing	346.66
+Cameras	400.35
+Toys	361.66
+Toys	88.56
+Crafts	34.54
+Video Games	195.18
+Women's Clothing	308.53
+Crafts	149.94
+Garden	70.75
+Consumer Electronics	435.3
+Garden	333.31
+Sporting Goods	111.32
+CDs	442.79
+Garden	329.03
+Books	163.57
+CDs	4.4
+Health and Beauty	105.56
+Women's Clothing	176.98
+Pet Supplies	481.52
+CDs	495.81
+Toys	337.71
+Sporting Goods	487.86
+Pet Supplies	129.79
+Baby	326.88
+CDs	152.94
+Crafts	230.81
+Crafts	443.46
+Children's Clothing	183.38
+Music	411.46
+Children's Clothing	247.4
+DVDs	269.7
+Women's Clothing	102.79
+Men's Clothing	181.96
+Books	274.88
+Health and Beauty	318.25
+Women's Clothing	257.19
+DVDs	49.61
+Music	286.88
+Men's Clothing	282.6
+Baby	259.14
+Women's Clothing	235.9
+Pet Supplies	325.19
+Books	411.08
+Music	173.44
+Health and Beauty	293.04
+Pet Supplies	255.96
+Garden	496.04
+Consumer Electronics	423.52
+CDs	255.28
+Crafts	296.45
+DVDs	87.86
+Computers	106.08
+Pet Supplies	26.72
+Pet Supplies	42.48
+CDs	137.64
+DVDs	102.39
+Garden	447.8
+DVDs	160.96
+Computers	57.3
+Men's Clothing	428.78
+Garden	157.59
+Children's Clothing	408.1
+Pet Supplies	405.18
+Men's Clothing	347.48
+Cameras	467.63
+Children's Clothing	142.24
+Video Games	89.34
+Crafts	375.07
+Video Games	398.46
+Garden	296.63
+Video Games	27.56
+CDs	341.43
+Crafts	162.97
+Crafts	308.4
+Books	64.95
+Computers	189.88
+CDs	336.92
+Consumer Electronics	336.38
+Music	162.52
+Women's Clothing	0.71
+DVDs	450.71
+DVDs	353.58
+Sporting Goods	363.83
+Video Games	33.89
+Cameras	150.73
+Pet Supplies	17.12
+Computers	25.46
+Toys	11.54
+Sporting Goods	274.68
+Children's Clothing	331.38
+Computers	347.62
+Computers	368.94
+Men's Clothing	397.95
+Garden	11.25
+DVDs	366.12
+Baby	270.85
+Books	178.48
+Garden	46.07
+Garden	208.7
+Health and Beauty	495.4
+Cameras	331.7
+Women's Clothing	292.35
+Consumer Electronics	301.4
+Pet Supplies	199.67
+Women's Clothing	11.22
+Crafts	48.45
+Music	237.29
+Video Games	322.19
+Garden	297.72
+Baby	188.46
+Men's Clothing	457.96
+Music	340.32
+CDs	221.79
+Sporting Goods	187.28
+Music	297.13
+DVDs	415.36
+Crafts	191.65
+Health and Beauty	460.68
+Video Games	485.96
+Cameras	59.72
+Cameras	343.49
+Baby	39.26
+DVDs	25.59
+Pet Supplies	106.57
+Men's Clothing	407.53
+Crafts	216.99
+Garden	25.72
+Consumer Electronics	438.7
+Women's Clothing	298.76
+Computers	169.4
+Garden	403.7
+Music	164.92
+Video Games	393.76
+Men's Clothing	30.36
+Women's Clothing	380.75
+Sporting Goods	243.99
+Health and Beauty	192.48
+Women's Clothing	397.36
+Music	456.53
+Video Games	111.36
+Women's Clothing	197.37
+Crafts	163.28
+Baby	142.02
+Music	68.44
+Cameras	91.01
+Music	305
+Computers	263.44
+Cameras	13.49
+DVDs	203.84
+Men's Clothing	7.06
+Women's Clothing	120.64
+Garden	484.16
+Books	477.91
+Pet Supplies	260.12
+Health and Beauty	275.79
+Toys	465.46
+Cameras	452.04
+Health and Beauty	220.18
+Cameras	199.42
+Consumer Electronics	3.85
+Men's Clothing	492.96
+Health and Beauty	344.08
+Women's Clothing	21.53
+Men's Clothing	127.16
+Cameras	326.11
+Cameras	283.99
+Women's Clothing	314.08
+DVDs	183.24
+Women's Clothing	105.47
+Pet Supplies	317.72
+Music	19.99
+Consumer Electronics	118.46
+Books	105.3
+CDs	87.49
+Children's Clothing	295.9
+Crafts	152.12
+Toys	21.01
+Sporting Goods	335.68
+Women's Clothing	84.55
+Sporting Goods	389.23
+Health and Beauty	368.69
+Health and Beauty	465.6
+Sporting Goods	141.59
+CDs	360.81
+Health and Beauty	326.29
+DVDs	41.77
+Baby	494.66
+Garden	192.82
+Books	109.02
+Health and Beauty	310.11
+Garden	85.57
+Toys	303.26
+Cameras	42.43
+Video Games	112.66
+Crafts	371.14
+Computers	233.1
+Consumer Electronics	154.01
+Baby	249.36
+Sporting Goods	124.52
+DVDs	52.72
+DVDs	117.98
+Toys	32.96
+Music	485.06
+Sporting Goods	289.73
+Music	322
+Children's Clothing	165.85
+Consumer Electronics	498.93
+Music	222.47
+CDs	166.33
+Baby	28.36
+Health and Beauty	1.29
+Video Games	82.54
+Cameras	436.01
+Pet Supplies	389.7
+Video Games	349.23
+Sporting Goods	279.86
+Crafts	203.2
+Sporting Goods	90.8
+Consumer Electronics	446.96
+Women's Clothing	284.34
+Cameras	95.81
+Pet Supplies	253.33
+Men's Clothing	358.08
+Health and Beauty	82.08
+Books	357.37
+Women's Clothing	192.95
+Computers	290.43
+Consumer Electronics	314.21
+Men's Clothing	498.32
+Baby	145.21
+Women's Clothing	243.21
+Music	388.29
+Children's Clothing	131.91
+Garden	478.53
+Women's Clothing	133.31
+Consumer Electronics	95
+Consumer Electronics	206.92
+Computers	160.6
+Pet Supplies	76.61
+Health and Beauty	481.23
+Sporting Goods	437.51
+Consumer Electronics	325.1
+Cameras	305.99
+Sporting Goods	488.65
+Garden	300.93
+Cameras	285.57
+Crafts	35.81
+Computers	307.18
+Sporting Goods	44.25
+Women's Clothing	465.15
+Pet Supplies	316.25
+Computers	207.96
+Men's Clothing	486.46
+Books	295.4
+Pet Supplies	218.58
+Women's Clothing	406.49
+CDs	276.81
+Health and Beauty	71.75
+Crafts	368.16
+CDs	407.49
+Toys	49.94
+Video Games	323.35
+Cameras	80.72
+Sporting Goods	255.77
+Computers	62.13
+Garden	99.81
+Consumer Electronics	470.16
+Sporting Goods	496.73
+Cameras	292.38
+Children's Clothing	166.08
+Pet Supplies	199.71
+Toys	17.59
+Pet Supplies	467.11
+Consumer Electronics	395.99
+Computers	261.16
+Computers	100.38
+CDs	250.46
+Books	259.03
+Garden	256.25
+Crafts	342.35
+Pet Supplies	367.76
+Toys	81.91
+Sporting Goods	93.74
+DVDs	380.67
+Cameras	46.48
+Baby	141.26
+Cameras	326.65
+Video Games	324.14
+DVDs	450.33
+Sporting Goods	182
+Baby	434.94
+CDs	445.5
+Cameras	113.26
+Sporting Goods	371.88
+Men's Clothing	28.91
+Health and Beauty	242.29
+Health and Beauty	453.16
+Men's Clothing	442.41
+Crafts	170.06
+Cameras	129.06
+Consumer Electronics	47.37
+Garden	387.9
+Cameras	152.86
+Computers	478.32
+Men's Clothing	95.59
+Pet Supplies	321.06
+Children's Clothing	279.54
+CDs	205.79
+Crafts	254.39
+CDs	206.06
+DVDs	204.88
+Sporting Goods	359.82
+Garden	262.5
+Baby	261.53
+DVDs	213.39
+Women's Clothing	209.46
+Cameras	427.08
+Cameras	84.56
+Music	74.11
+Sporting Goods	11.98
+Computers	233.51
+Computers	92.43
+Consumer Electronics	327.28
+Consumer Electronics	110.66
+Women's Clothing	427.22
+DVDs	124.85
+Video Games	442.24
+Women's Clothing	216.99
+Health and Beauty	144.33
+DVDs	443.78
+Consumer Electronics	28.37
+Pet Supplies	314.67
+DVDs	473.62
+Children's Clothing	276.99
+Cameras	146.07
+CDs	267.76
+CDs	317.22
+Garden	17.77
+Music	409.58
+Video Games	280.5
+Men's Clothing	436.25
+Children's Clothing	206.27
+Books	113.85
+Books	434.96
+Consumer Electronics	392.13
+Garden	497.17
+Men's Clothing	65.51
+Crafts	407.37
+Computers	499.55
+Baby	378.6
+Crafts	441.85
+Crafts	60.1
+Music	188.25
+Men's Clothing	159.31
+Video Games	211.66
+Computers	188.79
+Men's Clothing	475.65
+DVDs	411.8
+Music	11.63
+Toys	210.32
+CDs	387.05
+Garden	349.83
+Women's Clothing	406.11
+Men's Clothing	100.2
+Books	39.72
+Books	111.85
+Men's Clothing	209.18
+Men's Clothing	12.62
+Cameras	350.91
+Toys	487.35
+Toys	160.88
+Music	291.45
+Women's Clothing	354.67
+Cameras	193.01
+Women's Clothing	3.9
+DVDs	130.88
+Books	461.62
+Garden	332.72
+Men's Clothing	267.91
+Pet Supplies	133.61
+Pet Supplies	36.94
+Children's Clothing	136.12
+Health and Beauty	166.14
+Toys	96.17
+Pet Supplies	59.53
+Crafts	241.2
+Toys	70.36
+DVDs	451.59
+DVDs	461.34
+Baby	357.38
+Crafts	70.37
+Pet Supplies	18.89
+Men's Clothing	450.6
+Video Games	329.51
+Crafts	155.66
+Books	59.31
+Baby	421.75
+Toys	327.04
+Health and Beauty	91.6
+Children's Clothing	329.25
+Crafts	271.43
+Garden	176.29
+Video Games	300.91
+Pet Supplies	43.02
+Crafts	187.54
+Baby	425.54
+Garden	7.2
+Children's Clothing	370.81
+Children's Clothing	199.09
+Women's Clothing	90.96
+Video Games	374.14
+Children's Clothing	450.24
+Men's Clothing	402.55
+DVDs	290.67
+CDs	289.02
+Books	295.39
+Video Games	306.41
+Pet Supplies	214.78
+Men's Clothing	269.4
+Children's Clothing	216.5
+Computers	149.05
+Children's Clothing	418.27
+Sporting Goods	469.78
+Cameras	86.8
+Crafts	495.97
+Women's Clothing	459.12
+CDs	93.5
+Pet Supplies	151.46
+Books	221.24
+Books	179.52
+Garden	91.31
+Garden	315.29
+DVDs	223.58
+Children's Clothing	149.04
+Video Games	414.33
+Health and Beauty	183.44
+Crafts	110.71
+Health and Beauty	133.16
+Health and Beauty	135.7
+Cameras	77.32
+Women's Clothing	418.26
+Consumer Electronics	263.28
+Baby	416.07
+Health and Beauty	390.14
+Pet Supplies	348.56
+Video Games	304.03
+Consumer Electronics	32.86
+Toys	353.26
+Sporting Goods	473.69
+Men's Clothing	197.32
+Crafts	24.59
+Women's Clothing	307.95
+Baby	372.74
+Cameras	151.64
+Baby	405.12
+Consumer Electronics	185.67
+Music	464.15
+Toys	439.22
+Music	366.74
+Consumer Electronics	122.17
+Men's Clothing	418.26
+Garden	332.59
+Sporting Goods	24.31
+Video Games	156.21
+CDs	238.16
+Sporting Goods	454.17
+Children's Clothing	184.54
+Toys	307.82
+Sporting Goods	422.54
+Consumer Electronics	48.11
+Women's Clothing	14.62
+Health and Beauty	125.88
+Pet Supplies	442.4
+CDs	0.74
+Women's Clothing	131.02
+DVDs	188.5
+Garden	4.28
+Garden	475.82
+Consumer Electronics	29.07
+Computers	202.7
+Children's Clothing	431.34
+Computers	166.57
+Crafts	213.51
+Pet Supplies	91.59
+Sporting Goods	422.91
+Children's Clothing	142.41
+Sporting Goods	306.84
+Children's Clothing	292.62
+CDs	294.33
+Video Games	294.46
+Crafts	230.76
+CDs	432.98
+Crafts	38.67
+CDs	228.21
+Garden	127.19
+Cameras	289.09
+CDs	121.24
+DVDs	371.98
+Books	274.2
+Toys	103.97
+Cameras	236.57
+CDs	304.11
+DVDs	110.52
+Children's Clothing	203.82
+Video Games	393.02
+Toys	207.88
+Baby	245.63
+Consumer Electronics	308.08
+Children's Clothing	101.49
+Cameras	125.14
+Children's Clothing	169.09
+Cameras	346.35
+Health and Beauty	379.66
+Music	29.41
+DVDs	142.77
+Sporting Goods	9.89
+Video Games	87.49
+Books	75.58
+Sporting Goods	288.66
+DVDs	430.34
+Garden	37.42
+Garden	348.21
+Sporting Goods	224.09
+CDs	418.29
+Health and Beauty	268.79
+CDs	419.92
+Music	336.48
+Pet Supplies	264.72
+Music	245.79
+Toys	199.85
+Books	2.55
+Crafts	453.08
+Computers	355.7
+Sporting Goods	488.5
+Baby	144.14
+Children's Clothing	80.44
+Toys	417.42
+Baby	411.15
+Consumer Electronics	186.6
+Crafts	37.11
+Pet Supplies	50.27
+Health and Beauty	485.49
+Women's Clothing	126.12
+Toys	411.54
+Children's Clothing	4.94
+Books	185.9
+Children's Clothing	78.78
+Health and Beauty	51.21
+Children's Clothing	58.09
+Baby	456.62
+CDs	335.86
+Garden	259.52
+Crafts	218.31
+Baby	379.08
+Baby	32.81
+Women's Clothing	0.87
+Women's Clothing	153.44
+Books	468.08
+Pet Supplies	58.23
+Cameras	46.65
+Consumer Electronics	432.45
+Music	277.66
+Crafts	16.09
+Health and Beauty	484.31
+Pet Supplies	143.57
+Sporting Goods	210.55
+Toys	145.38
+DVDs	40.78
+Pet Supplies	77.06
+Crafts	72.7
+Health and Beauty	215.04
+Sporting Goods	181.94
+Music	358.35
+Children's Clothing	151.91
+Garden	423.32
+Computers	76.12
+Sporting Goods	50.9
+Toys	77.33
+Video Games	15.49
+Consumer Electronics	150.99
+Sporting Goods	45.75
+Books	147.41
+Baby	155.28
+Women's Clothing	293.71
+Consumer Electronics	265.2
+Sporting Goods	393.68
+Consumer Electronics	393.55
+Sporting Goods	207.76
+Sporting Goods	383.34
+Garden	62.12
+Toys	267.36
+Pet Supplies	403.42
+Computers	211.28
+Consumer Electronics	232.11
+Sporting Goods	71.58
+Baby	197.64
+CDs	102.53
+Children's Clothing	61.22
+Toys	84.18
+Pet Supplies	226.14
+Books	19.85
+Sporting Goods	458.27
+CDs	206.97
+Baby	285.46
+Health and Beauty	216.9
+Health and Beauty	451.91
+Computers	134.61
+Video Games	266.71
+Books	470.48
+Men's Clothing	460.26
+Music	16.33
+Video Games	211.08
+Books	251.11
+DVDs	159.51
+Sporting Goods	74.16
+Toys	394.52
+Video Games	97.16
+CDs	74.07
+Music	36.89
+Video Games	477.38
+Women's Clothing	446.55
+Books	369.98
+Cameras	188.8
+Baby	287.47
+Cameras	344.22
+Women's Clothing	352.47
+Health and Beauty	400.61
+Computers	338.95
+Men's Clothing	186.56
+DVDs	48.79
+Computers	260.28
+Music	12.36
+Consumer Electronics	334.73
+Garden	371.26
+Computers	269.91
+Garden	97.02
+Video Games	369.87
+Computers	182.68
+CDs	444.15
+Pet Supplies	430.02
+Women's Clothing	296.6
+Pet Supplies	248.26
+Pet Supplies	422.78
+Consumer Electronics	187.85
+Music	229.74
+Music	135.06
+Computers	395.63
+DVDs	48.34
+DVDs	282.1
+Crafts	480.9
+Cameras	363.52
+Cameras	435.4
+Consumer Electronics	481.44
+Health and Beauty	252.63
+Cameras	476.33
+Music	223.4
+Children's Clothing	134.46
+Video Games	169.33
+Music	204.75
+Children's Clothing	308.47
+Garden	426.43
+Men's Clothing	427.97
+CDs	37.83
+Video Games	23.21
+Crafts	267.03
+Computers	481.68
+Books	418.37
+Crafts	443.37
+DVDs	108.25
+DVDs	0.18
