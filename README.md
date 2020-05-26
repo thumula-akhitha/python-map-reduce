@@ -40,7 +40,11 @@ cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 
 This command is used to process the larger file i.e purchases.txt
 ``` cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py ```
+or 
 
+you can use this command
+
+``` cat purchases.txt | py 21mapper.py | sort  | py 22reducer.py ```
 
 ## References
 
